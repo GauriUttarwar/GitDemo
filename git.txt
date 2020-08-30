@@ -1,0 +1,49 @@
+git diff
+git status
+git pull origin master
+git status
+git diff
+git push origin master
+git status
+git pull origin master
+git diff
+git status
+git pull origin master
+git push origin master
+git status
+git branch
+git branch newbranch
+git branch
+git checkout newbranch
+git branch
+git status
+git add .
+git commit -m "branch added"
+git push origin master
+git push origin newbranch
+git branch
+git diff
+git diff master newbranch
+git checkout maste
+git branch
+git add .
+git commit -m "New diff"
+git push origin newbranch
+git pull origin newbranch
+git branch
+git diff
+git diff master newbranch
+git checkout master
+git merge newbranch
+git push origin master
+history | grep git
+history | grep git >git.txt
+doskey /h | grep "git"
+doskey /h | findstr "git" > git.txt
+git status
+git push origin master
+git status
+git diff
+git pull origin master
+git push origin master
+git log
